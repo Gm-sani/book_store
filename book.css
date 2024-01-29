@@ -1,0 +1,126 @@
+.navbar
+{
+color:green;
+display:flex;
+background-color:lightblue;
+
+}
+a
+{
+text-decoration:none;
+color:black;
+}
+.nav
+{
+margin :20px;
+}
+.tabl
+{
+margin:10px;
+background-color:white;
+height:90%;
+width:90%;
+margin-left: auto;
+margin-right: auto;
+text-align:center;
+}
+.img
+{
+height:100%;
+width:100%;
+}
+
+.indexintro
+{
+display:flex;
+}
+.h1index
+{
+ text-align: center;
+letter-spacing: 1.5px;
+font-size:2.5rem;
+}
+.h2index
+{
+margin:15px;
+letter-spacing: 1px;
+}
+.pindex
+{
+margin:15px;
+width:95%;
+letter-spacing: 1px;
+}
+.aboutmain
+{
+margin:10px;
+background-color :rgb(240, 240, 240);
+height:85vh;
+width:85vw;
+margin-left: auto;
+margin-right: auto;
+border-radius: 25px;
+display:flex;
+}
+.aboutimg
+{
+background-color:rgb(240, 240, 240);
+width:50%;
+}
+.mustimg
+ {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+border-radius: 120px;
+background-color:slate;
+}
+.abouttext
+{
+background-color:rgb(240, 240, 240);
+width:50%;
+}
+.h1about
+{
+margin-top: 75px;
+padding-top: 75px;
+letter-spacing: 1px;
+font-size:2.5rem;
+}
+.pabout
+{
+width:95%;
+}
+.contacttext
+{
+background-color:rgb(240, 240, 240);
+width:50%;
+}
+.contactform
+{
+background-color:rgb(240, 240, 240);
+width:50%;
+}
+.h1cont
+{
+margin-top: 75px;
+padding-top: 75px;
+letter-spacing: 1px;
+font-size:2.5rem;
+}
+.pcont
+{
+width:80%;
+}
+.tablcont
+{
+margin-top:25px;
+text-align:center;
+height:90%;
+width:90%;
+}
+.td
+{
+border:1px solid gray;
+}
